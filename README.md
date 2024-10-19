@@ -1,16 +1,20 @@
-## Hi there 👋
+<img align="right" src="https://count.getloli.com/get/@:ghost-in-China?theme=rule34">
 
-<!--
-**ghost-in-China/ghost-in-China** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 沉入代码的幽灵
 
-Here are some ideas to get you started:
+热爱编程，及编程实现者，一个会编程的幽灵
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 开源项目
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ghost-in-China&repo=chenrudaimadeyouling)](https://github.com/ghost-in-China/chenrudaimadeyouling)
+<br><br><br>
+
+### Github 活跃度
+
+[![](https://activity-graph.herokuapp.com/graph?username=ghost-in-China&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=ghost-in-China&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-in-China&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-in-China&layout=compact&langs_count=6)
